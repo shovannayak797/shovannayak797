@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shovan Nayak currently pursuing my B.Tech degree in Information Technology from Asansol Engineering College. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
-- 👀 I’m interested in  c , c++ , java 
+- 👀 I’m interested in  c , c++ , java , HTML,CSS
 - 🌱 I’m currently learning  B.Tech degree in Information Technology
 
 
